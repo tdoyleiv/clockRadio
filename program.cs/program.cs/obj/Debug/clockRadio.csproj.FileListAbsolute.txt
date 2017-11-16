@@ -1,0 +1,6 @@
+C:\Users\Tom\Desktop\devCode\clockRadio\program.cs\program.cs\obj\Debug\clockRadio.csprojResolveAssemblyReference.cache
+C:\Users\Tom\Desktop\devCode\clockRadio\program.cs\program.cs\bin\Debug\program.cs.exe.config
+C:\Users\Tom\Desktop\devCode\clockRadio\program.cs\program.cs\bin\Debug\program.cs.exe
+C:\Users\Tom\Desktop\devCode\clockRadio\program.cs\program.cs\bin\Debug\program.cs.pdb
+C:\Users\Tom\Desktop\devCode\clockRadio\program.cs\program.cs\obj\Debug\program.cs.exe
+C:\Users\Tom\Desktop\devCode\clockRadio\program.cs\program.cs\obj\Debug\program.cs.pdb
