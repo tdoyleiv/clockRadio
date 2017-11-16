@@ -40,7 +40,6 @@ namespace program.cs
             else
             {
                 Console.WriteLine("The alarm is currently off.");
-                AlarmSet();
             }
         }
         public void SetCurrentTime()
